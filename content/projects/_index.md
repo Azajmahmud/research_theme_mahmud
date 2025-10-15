@@ -1,5 +1,10 @@
 ---
 title: Current and Potential Projects
+menu:
+  main:
+    identifier: projects
+    name: Projects
+    weight: 50
 ---
 Along with students and collaborators, my lab is currently pursing several projects, and we plan to start some new lines of work this coming year.
 
